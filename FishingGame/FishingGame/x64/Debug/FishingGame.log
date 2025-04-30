@@ -1,0 +1,4 @@
+﻿  FishingGame.cpp
+C:\Users\Trindade\Documents\_Projetos_\C++\FishingGame\FishingGame\FishingGame\FishingGame.cpp(57,17): warning C4566: character represented by universal-character-name '\U0001F3A3' cannot be represented in the current code page (1252)
+C:\Users\Trindade\Documents\_Projetos_\C++\FishingGame\FishingGame\FishingGame\FishingGame.cpp(61,17): warning C4566: character represented by universal-character-name '\U0001F4A8' cannot be represented in the current code page (1252)
+  FishingGame.vcxproj -> C:\Users\Trindade\Documents\_Projetos_\C++\FishingGame\FishingGame\x64\Debug\FishingGame.exe
